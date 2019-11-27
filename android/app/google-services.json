@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815939583592",
+    "firebase_url": "https://barbas-na-face.firebaseio.com",
+    "project_id": "barbas-na-face",
+    "storage_bucket": "barbas-na-face.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815939583592:android:7c64448991c1ef58c705dd",
+        "android_client_info": {
+          "package_name": "barbasnacara.barbasnaface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815939583592-l9jmhbbpjbudlka0ad329naad601ppjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzgbxrjHDQol6LlaspXshAjYoG-AyEXP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815939583592-l9jmhbbpjbudlka0ad329naad601ppjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
